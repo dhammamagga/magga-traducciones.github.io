@@ -1,16 +1,14 @@
 ---
+title: Thanissaro Bhikkhu
+date: 2013-01-19 21:24:09 Z
 author: dhammamagga
 comments: false
-date: 2013-01-19 21:24:09+00:00
 layout: page
 link: https://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/
 slug: thanissaro-bhikkhu
-title: Thanissaro Bhikkhu
 wordpress_id: 20
 ---
 
-
-	
   * [El observador](http://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/el-observador/)
 
 	

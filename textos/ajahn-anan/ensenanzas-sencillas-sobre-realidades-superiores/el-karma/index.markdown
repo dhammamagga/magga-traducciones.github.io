@@ -1,11 +1,11 @@
 ---
+title: El karma
+date: 2013-01-21 08:19:55 Z
 author: dhammamagga
 comments: false
-date: 2013-01-21 08:19:55+00:00
 layout: page
 link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/el-karma/
 slug: el-karma
-title: El karma
 wordpress_id: 259
 ---
 

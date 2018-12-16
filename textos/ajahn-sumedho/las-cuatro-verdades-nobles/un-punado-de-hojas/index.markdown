@@ -1,11 +1,11 @@
 ---
+title: Un puñado de hojas
+date: 2013-01-19 23:28:27 Z
 author: dhammamagga
 comments: false
-date: 2013-01-19 23:28:27+00:00
 layout: page
 link: https://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/un-punado-de-hojas/
 slug: un-punado-de-hojas
-title: Un puñado de hojas
 wordpress_id: 136
 ---
 

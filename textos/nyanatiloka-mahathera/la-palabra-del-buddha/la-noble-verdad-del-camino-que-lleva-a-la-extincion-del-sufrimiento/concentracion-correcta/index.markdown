@@ -1,11 +1,11 @@
 ---
+title: Concentración correcta
+date: 2016-02-12 19:57:48 Z
 author: dhammamagga
 comments: false
-date: 2016-02-12 19:57:48+00:00
 layout: page
 link: https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/concentracion-correcta/
 slug: concentracion-correcta
-title: Concentración correcta
 wordpress_id: 673
 ---
 

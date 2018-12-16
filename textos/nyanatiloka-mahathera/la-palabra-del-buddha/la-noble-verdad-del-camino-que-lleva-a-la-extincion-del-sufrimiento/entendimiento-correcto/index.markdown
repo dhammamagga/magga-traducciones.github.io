@@ -1,11 +1,11 @@
 ---
+title: Entendimiento correcto
+date: 2015-02-05 17:44:58 Z
 author: dhammamagga
 comments: false
-date: 2015-02-05 17:44:58+00:00
 layout: page
 link: https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/entendimiento-correcto/
 slug: entendimiento-correcto
-title: Entendimiento correcto
 wordpress_id: 606
 ---
 

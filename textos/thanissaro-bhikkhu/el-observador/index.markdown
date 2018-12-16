@@ -1,11 +1,11 @@
 ---
+title: El observador
+date: 2013-01-19 21:20:30 Z
 author: dhammamagga
 comments: false
-date: 2013-01-19 21:20:30+00:00
 layout: page
 link: https://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/el-observador/
 slug: el-observador
-title: El observador
 wordpress_id: 11
 ---
 

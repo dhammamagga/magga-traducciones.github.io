@@ -1,16 +1,13 @@
 ---
+title: Simplemente, ¡hazlo!
+date: 2013-01-19 22:27:49 Z
 author: dhammamagga
 comments: false
-date: 2013-01-19 22:27:49+00:00
 layout: page
 link: https://dhammamagga.wordpress.com/textos/ajahn-chah/hazlo/
 slug: hazlo
-title: Simplemente, ¡hazlo!
 wordpress_id: 94
 ---
-
-
-
 
 # Simplemente, ¡hazlo!
 

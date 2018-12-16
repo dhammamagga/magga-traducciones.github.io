@@ -1,11 +1,11 @@
 ---
+title: La segunda verdad noble
+date: 2013-01-20 08:17:41 Z
 author: dhammamagga
 comments: false
-date: 2013-01-20 08:17:41+00:00
 layout: page
 link: https://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-segunda-verdad-noble/
 slug: la-segunda-verdad-noble
-title: La segunda verdad noble
 wordpress_id: 171
 ---
 

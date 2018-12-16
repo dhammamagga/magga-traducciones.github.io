@@ -1,11 +1,11 @@
 ---
+title: Glosario
+date: 2013-01-19 22:19:53 Z
 author: dhammamagga
 comments: false
-date: 2013-01-19 22:19:53+00:00
 layout: page
 link: https://dhammamagga.wordpress.com/textos/ajahn-lee-dhammadharo/marcos-de-referencia/glosario/
 slug: glosario
-title: Glosario
 wordpress_id: 83
 ---
 

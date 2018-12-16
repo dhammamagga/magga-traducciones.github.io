@@ -1,11 +1,11 @@
 ---
+title: Acción correcta
+date: 2015-02-14 17:00:47 Z
 author: dhammamagga
 comments: false
-date: 2015-02-14 17:00:47+00:00
 layout: page
 link: https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/accion-correcta/
 slug: accion-correcta
-title: Acción correcta
 wordpress_id: 639
 ---
 

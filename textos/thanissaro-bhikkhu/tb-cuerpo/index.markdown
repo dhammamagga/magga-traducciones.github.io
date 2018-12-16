@@ -1,11 +1,11 @@
 ---
+title: Contemplación del cuerpo
+date: 2013-01-19 21:15:25 Z
 author: dhammamagga
 comments: false
-date: 2013-01-19 21:15:25+00:00
 layout: page
 link: https://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/tb-cuerpo/
 slug: tb-cuerpo
-title: Contemplación del cuerpo
 wordpress_id: 2
 ---
 

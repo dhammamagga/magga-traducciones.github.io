@@ -1,11 +1,11 @@
 ---
+title: La virtud
+date: 2013-01-21 08:14:32 Z
 author: dhammamagga
 comments: false
-date: 2013-01-21 08:14:32+00:00
 layout: page
 link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-virtud/
 slug: la-virtud
-title: La virtud
 wordpress_id: 252
 ---
 

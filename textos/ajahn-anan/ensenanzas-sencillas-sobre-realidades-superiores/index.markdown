@@ -1,11 +1,11 @@
 ---
+title: Enseñanzas sencillas sobre realidades superiores
+date: 2013-01-21 07:32:03 Z
 author: dhammamagga
 comments: false
-date: 2013-01-21 07:32:03+00:00
 layout: page
 link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/
 slug: ensenanzas-sencillas-sobre-realidades-superiores
-title: Enseñanzas sencillas sobre realidades superiores
 wordpress_id: 233
 ---
 

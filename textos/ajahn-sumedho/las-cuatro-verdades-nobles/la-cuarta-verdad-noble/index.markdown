@@ -1,11 +1,11 @@
 ---
+title: La cuarta verdad noble
+date: 2013-01-20 08:32:26 Z
 author: dhammamagga
 comments: false
-date: 2013-01-20 08:32:26+00:00
 layout: page
 link: https://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-cuarta-verdad-noble/
 slug: la-cuarta-verdad-noble
-title: La cuarta verdad noble
 wordpress_id: 175
 ---
 

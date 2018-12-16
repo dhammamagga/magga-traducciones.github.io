@@ -1,11 +1,11 @@
 ---
+title: Jhana
+date: 2015-01-31 17:42:13 Z
 author: dhammamagga
 comments: false
-date: 2015-01-31 17:42:13+00:00
 layout: page
 link: https://dhammamagga.wordpress.com/textos/ajahn-lee-dhammadharo/manteniendo-la-respiracion-en-la-mente/jhana/
 slug: jhana
-title: Jhana
 wordpress_id: 545
 ---
 
