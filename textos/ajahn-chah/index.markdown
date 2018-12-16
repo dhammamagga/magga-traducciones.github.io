@@ -9,6 +9,6 @@ wordpress_id: 35
 layout: page
 ---
 
-  * [Simplemente ¡Hazlo!](http://dhammamagga.wordpress.com/textos/ajahn-chah/hazlo/)
+  * [Simplemente ¡Hazlo!](/textos/ajahn-chah/hazlo/)
 
 
