@@ -4,7 +4,7 @@ date: 2015-02-14 17:00:47 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/accion-correcta/
+link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/accion-correcta/
 slug: accion-correcta
 wordpress_id: 639
 ---
@@ -57,7 +57,7 @@ Ahora, conociendo la acción incorrecta como incorrecta, y la acción correcta c
 Por lo tanto hay tres cosas que acompañan y siguen a la acción correcta, y son: entendimiento correcto, esfuerzo correcto y atención correcta.
 
 
-[<-anterior](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/habla-correcta/)     [siguiente->](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/modo-de-vida-correcto/)
+[<-anterior](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/habla-correcta/)     [siguiente->](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/modo-de-vida-correcto/)
 
 
 

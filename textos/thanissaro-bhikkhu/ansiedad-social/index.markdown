@@ -4,7 +4,7 @@ date: 2017-10-21 16:27:41 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/ansiedad-social/
+link: /textos/thanissaro-bhikkhu/ansiedad-social/
 slug: ansiedad-social
 wordpress_id: 733
 ---

@@ -1,4 +1,10 @@
 ---
+author: dhammamagga
+comments: false
+date: 2013-02-17 16:29:10+00:00
+layout: post
+link: /2013/02/17/metodo-1-y-2-de-ajahn-lee/
+slug: metodo-1-y-2-de-ajahn-lee
 title: Método 1 y 2 de Ajahn Lee
 date: 2013-02-17 16:29:10 Z
 tags:

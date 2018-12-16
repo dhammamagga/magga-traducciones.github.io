@@ -4,7 +4,7 @@ date: 2013-01-19 23:25:45 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/
+link: /textos/ajahn-sumedho/las-cuatro-verdades-nobles/
 slug: las-cuatro-verdades-nobles
 wordpress_id: 132
 ---
@@ -30,25 +30,25 @@ Ajahn Sumedho
 
 
 	
-  * [Un puñado de hojas](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/un-punado-de-hojas/)
+  * [Un puñado de hojas](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/un-punado-de-hojas/)
 
 	
-  * [Prefacio](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/prefacio/)
+  * [Prefacio](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/prefacio/)
 
 	
-  * [Introducción](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/introduccion/)
+  * [Introducción](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/introduccion/)
 
 	
-  * [La primera verdad noble](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-primera-verdad-noble/)
+  * [La primera verdad noble](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-primera-verdad-noble/)
 
 	
-  * [La segunda verdad noble](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-segunda-verdad-noble/)
+  * [La segunda verdad noble](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-segunda-verdad-noble/)
 
 	
-  * [La tercera verdad noble](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-tercera-verdad-noble/)
+  * [La tercera verdad noble](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-tercera-verdad-noble/)
 
 	
-  * [La cuarta verdad noble](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-cuarta-verdad-noble/)
+  * [La cuarta verdad noble](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-cuarta-verdad-noble/)
 
 
 <!-- more -->

@@ -4,7 +4,7 @@ date: 2013-01-19 23:05:21 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/john-bullit/que-es-el-budismo-theravada/
+link: /textos/john-bullit/que-es-el-budismo-theravada/
 slug: que-es-el-budismo-theravada
 wordpress_id: 110
 ---

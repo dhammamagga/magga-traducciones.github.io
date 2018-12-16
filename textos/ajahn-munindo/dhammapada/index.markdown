@@ -4,7 +4,7 @@ date: 2013-01-19 22:53:44 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-munindo/dhammapada/
+link: /textos/ajahn-munindo/dhammapada/
 slug: dhammapada
 wordpress_id: 105
 ---

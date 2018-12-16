@@ -4,7 +4,7 @@ date: 2015-02-05 17:42:36 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/
+link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/
 slug: la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento
 wordpress_id: 474
 ---
@@ -52,7 +52,7 @@ A continuación escuchad, para encontrar así lo Inmortal. Revelo, expongo la Re
 
 
 
-[<-anterior](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-de-la-extincion-del-sufrimiento/)     [siguiente->](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/entendimiento-correcto/)
+[<-anterior](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-de-la-extincion-del-sufrimiento/)     [siguiente->](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/entendimiento-correcto/)
 
 
 

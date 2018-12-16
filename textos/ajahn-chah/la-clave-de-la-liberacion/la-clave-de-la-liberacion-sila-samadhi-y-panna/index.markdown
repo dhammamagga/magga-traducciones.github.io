@@ -4,7 +4,7 @@ date: 2016-03-20 16:15:04 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-sila-samadhi-y-panna/
+link: /textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-sila-samadhi-y-panna/
 slug: la-clave-de-la-liberacion-sila-samadhi-y-panna
 wordpress_id: 709
 ---
@@ -69,7 +69,7 @@ Estas cosas constituyen el camino que guía al interior, pero para alcanzar el d
 
 
 
-[<--- anterior](https://dhammamagga.wordpress.com/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-teoria-y-realidad/) [siguiente --->](https://dhammamagga.wordpress.com/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-los-peligros-del-apego/)
+[<--- anterior](/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-teoria-y-realidad/) [siguiente --->](/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-los-peligros-del-apego/)
 
 
 

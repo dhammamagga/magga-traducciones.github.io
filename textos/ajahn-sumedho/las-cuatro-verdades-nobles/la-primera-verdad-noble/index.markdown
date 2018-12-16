@@ -4,7 +4,7 @@ date: 2013-01-20 08:13:26 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-primera-verdad-noble/
+link: /textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-primera-verdad-noble/
 slug: la-primera-verdad-noble
 wordpress_id: 167
 ---
@@ -122,7 +122,7 @@ Así que estos son los tres aspectos de la Primera Verdad Noble. Esta es la fór
 [2] Los nombres de las montañas de Suiza.
 
 
-[<-anterior](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/introduccion/)     [siguiente->](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-segunda-verdad-noble/)
+[<-anterior](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/introduccion/)     [siguiente->](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-segunda-verdad-noble/)
 
 
 

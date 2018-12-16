@@ -4,7 +4,7 @@ date: 2013-01-21 08:35:46 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/dejar-ir/
+link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/dejar-ir/
 slug: dejar-ir
 wordpress_id: 265
 ---

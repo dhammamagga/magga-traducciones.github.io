@@ -4,7 +4,7 @@ date: 2016-03-28 11:15:23 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-los-peligros-del-apego/
+link: /textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-los-peligros-del-apego/
 slug: la-clave-de-la-liberacion-los-peligros-del-apego
 wordpress_id: 718
 ---
@@ -29,7 +29,7 @@ Más tarde empecé a darme cuenta de que es lo mismo que con el tema de la respi
 
 
 
-[<--- anterior](https://dhammamagga.wordpress.com/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-sila-samadhi-y-panna/) siguiente --->
+[<--- anterior](/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-sila-samadhi-y-panna/) siguiente --->
 
 
 

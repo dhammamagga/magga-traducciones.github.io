@@ -4,7 +4,7 @@ date: 2013-01-19 21:24:09 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/
+link: /textos/thanissaro-bhikkhu/
 slug: thanissaro-bhikkhu
 wordpress_id: 20
 ---
@@ -27,6 +27,6 @@ wordpress_id: 20
   * [Jhana sin numerarlos](http://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/jhana-sin-numerarlos/)
 
 	
-  * [Ansiedad social](https://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/ansiedad-social/)
+  * [Ansiedad social](/textos/thanissaro-bhikkhu/ansiedad-social/)
 
 

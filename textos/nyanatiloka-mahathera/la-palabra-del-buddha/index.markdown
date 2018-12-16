@@ -4,7 +4,7 @@ date: 2013-02-20 13:08:04 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/
+link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/
 slug: la-palabra-del-buddha
 wordpress_id: 391
 ---
@@ -22,43 +22,43 @@ Compilado, traducido y explicado por Nyanatiloka Mahathera
 
 
 	
-  * [Las cuatro verdades nobles](http://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/las-cuatro-verdades-nobles/)
+  * [Las cuatro verdades nobles](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/las-cuatro-verdades-nobles/)
 
 	
-  * [La noble verdad del sufrimiento](http://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-verdad-noble-del-sufrimiento/)
+  * [La noble verdad del sufrimiento](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-verdad-noble-del-sufrimiento/)
 
 	
-  * [La noble verdad del origen del sufrimiento](http://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-origen-del-sufrimiento/)
+  * [La noble verdad del origen del sufrimiento](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-origen-del-sufrimiento/)
 
 	
-  * [La noble verdad de la extinción del sufrimiento](http://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-de-la-extincion-del-sufrimiento/)
+  * [La noble verdad de la extinción del sufrimiento](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-de-la-extincion-del-sufrimiento/)
 
 	
-  * [La noble verdad del camino que lleva a la extinción de sufrimiento](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/)
+  * [La noble verdad del camino que lleva a la extinción de sufrimiento](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/)
 
 	
-    * [Entendimiento correcto](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/entendimiento-correcto/)
+    * [Entendimiento correcto](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/entendimiento-correcto/)
 
 	
-    * [Pensamiento correcto](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/pensamiento-correcto/)
+    * [Pensamiento correcto](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/pensamiento-correcto/)
 
 	
-    * [Habla correcta](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/habla-correcta/)
+    * [Habla correcta](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/habla-correcta/)
 
 	
-    * [Acción correcta](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/accion-correcta/)
+    * [Acción correcta](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/accion-correcta/)
 
 	
-    * [Modo de vida correcto](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/modo-de-vida-correcto/)
+    * [Modo de vida correcto](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/modo-de-vida-correcto/)
 
 	
-    * [Esfuerzo correcto](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/esfuerzo-correcto/)
+    * [Esfuerzo correcto](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/esfuerzo-correcto/)
 
 	
-    * [Atención correcta](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/atencion-correcta/)
+    * [Atención correcta](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/atencion-correcta/)
 
 	
-    * [Concentración correcta](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/concentracion-correcta/)
+    * [Concentración correcta](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/concentracion-correcta/)
 
 
 

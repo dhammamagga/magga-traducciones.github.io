@@ -4,7 +4,7 @@ date: 2013-02-21 14:06:17 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-origen-del-sufrimiento/
+link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-origen-del-sufrimiento/
 slug: la-noble-verdad-del-origen-del-sufrimiento
 wordpress_id: 420
 ---
@@ -96,7 +96,7 @@ S. XXII. 99
 Llegará el momento en el que los grandes océanos se sequen, se desvanezcan, y ya no haya. Llegará el momento en el que la gran tierra sea devorada por el fuego, perezca, y no exista más. Pero sin embargo no habrá un fin del sufrimiento de los seres que, obstruidos por la ignorancia y atrapados por el anhelo, se apuran y precipitan por esta serie de renacimientos.
 
 
-[<-anterior](http://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-verdad-noble-del-sufrimiento/)     [siguiente->](http://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-de-la-extincion-del-sufrimiento/)
+[<-anterior](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-verdad-noble-del-sufrimiento/)     [siguiente->](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-de-la-extincion-del-sufrimiento/)
 
 
 

@@ -4,7 +4,7 @@ date: 2013-01-20 08:22:28 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-tercera-verdad-noble/
+link: /textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-tercera-verdad-noble/
 slug: la-tercera-verdad-noble
 wordpress_id: 173
 ---
@@ -109,7 +109,7 @@ El camino hacia el cese del sufrimiento es el camino de la perfección. La perfe
 Usamos la sabiduría del Buddha para contemplar el Dhamma, el modo en que son las cosas. Tomamos Refugio en el Sangha, en aquello que está haciendo el bien y absteniéndose de hacer e mal. El Sangha es una cosa, una comunidad. No es un grupo de personalidades individuales o personajes distintos. La sensación de ser una persona individual o un hombre o una mujer ya no es importante para nosotros. Este sentido del Sangha es comprendido como un Refugio. Existe esta unidad de tal manera que, aunque las manifestaciones sean todas individuales, nuestra comprensión es la misma. Al estar despiertos, alerta y no apegados más, comprendemos el cese y moramos en el vacío donde todos nos fusionamos. No hay persona allí. La gente puede que surja y cese en el vacío, pero no hay persona. Solo hay claridad, consciencia, paz y pureza.
 
 
-[<-anterior](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-segunda-verdad-noble/)     [siguiente->](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-cuarta-verdad-noble/)
+[<-anterior](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-segunda-verdad-noble/)     [siguiente->](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-cuarta-verdad-noble/)
 
 
 

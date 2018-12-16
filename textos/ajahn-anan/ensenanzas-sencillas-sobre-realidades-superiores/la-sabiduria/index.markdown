@@ -4,7 +4,7 @@ date: 2013-01-21 08:29:18 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-sabiduria/
+link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-sabiduria/
 slug: la-sabiduria
 wordpress_id: 263
 ---
@@ -82,7 +82,7 @@ Al combinar generosidad, virtud, buenas intenciones y meditación estaremos fort
 
 
 
-[->Dejar ir](http://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/dejar-ir/)
+[->Dejar ir](/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/dejar-ir/)
 
 
 

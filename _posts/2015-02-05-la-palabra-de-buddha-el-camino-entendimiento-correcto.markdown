@@ -6,7 +6,9 @@ tags:
 author: dhammamagga
 comments: false
 layout: post
-link: https://dhammamagga.wordpress.com/2015/02/05/la-palabra-de-buddha-el-camino-entendimiento-correcto/
+link: /2015/02/05/la-palabra-de-buddha-el-camino-entendimiento-correcto/
+slug: la-palabra-de-buddha-el-camino-entendimiento-correcto
+title: La palabra de Buddha -  El camino - entendimiento correcto
 wordpress_id: 615
 ---
 

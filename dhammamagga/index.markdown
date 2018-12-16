@@ -4,7 +4,7 @@ date: 2013-01-20 14:19:32 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/dhammamagga/
+link: /dhammamagga/
 slug: dhammamagga
 wordpress_id: 218
 ---

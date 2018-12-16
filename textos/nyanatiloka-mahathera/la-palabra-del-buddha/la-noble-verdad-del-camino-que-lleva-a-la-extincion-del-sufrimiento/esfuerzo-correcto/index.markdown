@@ -4,7 +4,7 @@ date: 2016-02-12 18:55:58 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/esfuerzo-correcto/
+link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/esfuerzo-correcto/
 slug: esfuerzo-correcto
 wordpress_id: 663
 ---
@@ -130,7 +130,7 @@ Y aquel que se adhiere firmemente a ellos es capaz de poner fin al sufrimiento.
 
 
 
-[<-anterior](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/modo-de-vida-correcto/)     [siguiente->](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/atencion-correcta/)
+[<-anterior](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/modo-de-vida-correcto/)     [siguiente->](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/atencion-correcta/)
 
 
 

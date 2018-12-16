@@ -4,7 +4,7 @@ date: 2015-02-14 15:40:59 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/habla-correcta/
+link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/habla-correcta/
 slug: habla-correcta
 wordpress_id: 627
 ---
@@ -68,7 +68,7 @@ Por lo tanto hay tres cosas que acompañan y siguen al pensamiento correcto, y s
 
 
 
-[<-anterior](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/pensamiento-correcto/)     [siguiente->](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/accion-correcta/)
+[<-anterior](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/pensamiento-correcto/)     [siguiente->](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/accion-correcta/)
 
 
 

@@ -4,7 +4,7 @@ date: 2013-01-19 21:15:25 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/tb-cuerpo/
+link: /textos/thanissaro-bhikkhu/tb-cuerpo/
 slug: tb-cuerpo
 wordpress_id: 2
 ---

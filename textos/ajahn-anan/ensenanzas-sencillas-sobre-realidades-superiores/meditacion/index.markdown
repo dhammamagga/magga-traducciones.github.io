@@ -4,7 +4,7 @@ date: 2013-01-21 07:57:06 Z
 author: dhammamagga
 comments: false
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/meditacion/
+link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/meditacion/
 slug: meditacion
 wordpress_id: 243
 ---
@@ -157,7 +157,7 @@ Antes de hacerme monje tenía un trabajo fijo. Iba a trabajar y volvía a casa p
 
 
 
-[->La atención](http://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-atencion/)
+[->La atención](/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-atencion/)
 
 
 <!-- more -->
