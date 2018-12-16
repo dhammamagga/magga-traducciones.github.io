@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-19 23:19:06+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/dhammacakkappavattana-sutta/
+link: /textos/thanissaro-bhikkhu/dhammacakkappavattana-sutta/
 slug: dhammacakkappavattana-sutta
 title: Dhammacakkappavattana sutta
 wordpress_id: 126

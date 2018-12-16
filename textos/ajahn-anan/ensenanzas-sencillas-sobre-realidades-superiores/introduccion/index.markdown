@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-21 07:38:29+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/introduccion/
+link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/introduccion/
 slug: introduccion
 title: Introducción
 wordpress_id: 237
@@ -45,7 +45,7 @@ _ Homenaje al Bendito, Noble y Perfectamente Iluminado_
 
 
 
-[->La felicidad](http://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-felicidad/)
+[->La felicidad]/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-felicidad/)
 
 
 <!-- more -->

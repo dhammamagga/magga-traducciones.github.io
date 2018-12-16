@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-21 08:08:24+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/motivacion/
+link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/motivacion/
 slug: motivacion
 title: Motivación
 wordpress_id: 249
@@ -104,7 +104,7 @@ Reflexiona en lo rápido que pasa la vida, día tras día, mes tras mes, año tr
 
 
 
-[->La virtud](http://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-virtud/)
+[->La virtud]/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-virtud/)
 
 
 <!-- more -->

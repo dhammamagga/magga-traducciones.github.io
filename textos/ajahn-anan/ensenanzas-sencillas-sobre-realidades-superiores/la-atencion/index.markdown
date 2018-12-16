@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-21 08:02:51+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-atencion/
+link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-atencion/
 slug: la-atencion
 title: La atención
 wordpress_id: 246
@@ -75,7 +75,7 @@ Una casa es un lugar para descansar y cobijarse. Salimos, vamos a trabajar y hac
 
 
 
-[->Motivación](http://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/motivacion/)
+[->Motivación]/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/motivacion/)
 
 
 <!-- more -->

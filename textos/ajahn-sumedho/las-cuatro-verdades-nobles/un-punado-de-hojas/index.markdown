@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-19 23:28:27+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/un-punado-de-hojas/
+link: /textos/ajahn-sumedho/las-cuatro-verdades-nobles/un-punado-de-hojas/
 slug: un-punado-de-hojas
 title: Un puñado de hojas
 wordpress_id: 136
@@ -29,7 +29,7 @@ _[Samyutta Nikaya, LVI, 31]_
 
 
 
-[<-anterior](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/)     [siguiente->](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/prefacio/)
+[<-anterior]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/)     [siguiente->]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/prefacio/)
 
 
 

@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-19 23:20:50+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/thanissaro-bhikkhu/consolidando-las-verdades-del-corazon/
+link: /textos/thanissaro-bhikkhu/consolidando-las-verdades-del-corazon/
 slug: consolidando-las-verdades-del-corazon
 title: Consolidando las verdades del corazón
 wordpress_id: 128

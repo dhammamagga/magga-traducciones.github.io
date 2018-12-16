@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-20 14:19:32+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/dhammamagga/
+link: /dhammamagga/
 slug: dhammamagga
 title: dhammamagga
 wordpress_id: 218

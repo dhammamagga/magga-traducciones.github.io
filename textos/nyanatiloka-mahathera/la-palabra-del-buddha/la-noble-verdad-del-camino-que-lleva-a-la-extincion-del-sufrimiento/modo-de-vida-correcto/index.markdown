@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2016-02-12 18:34:05+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/modo-de-vida-correcto/
+link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/modo-de-vida-correcto/
 slug: modo-de-vida-correcto
 title: Modo de vida correcto
 wordpress_id: 659
@@ -37,7 +37,7 @@ Ahora, entendiendo el modo de vida incorrecto como incorrecto, y el modo de vida
 Por lo tanto hay tres cosas que acompañan y siguen al modo de vida correcto, y son: entendimiento correcto, esfuerzo correcto y atención correcta.
 
 
-[<-anterior](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/accion-correcta/)     [siguiente->](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/esfuerzo-correcto/)
+[<-anterior](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/accion-correcta/)     [siguiente->](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/esfuerzo-correcto/)
 
 
 

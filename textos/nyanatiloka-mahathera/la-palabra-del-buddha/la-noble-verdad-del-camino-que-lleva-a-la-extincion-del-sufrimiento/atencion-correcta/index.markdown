@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2016-02-12 19:46:51+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/atencion-correcta/
+link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/atencion-correcta/
 slug: atencion-correcta
 title: Atención correcta
 wordpress_id: 669
@@ -353,7 +353,7 @@ M. 125
 Así como el cazador de elefantes clava una gran estaca en el suelo y encadena al elefante salvaje a ella por el cuello para sacar de él sus costumbres y deseos del bosque, su indisciplina, obstinación y violencia del bosque, y acostumbrarlo al entorno del pueblo, y enseñarle el comportamiento correcto requerido entre los hombres, de manera similar también el noble discípulo debería fijar firmemente su mente a estos cuatro fundamentos de la atención, para que pueda sacar de si mismo sus costumbres y deseos mundanos, su indisciplina, obstinación y violencia mundanas, y llegar a la Verdad, y realizar el Nibbaana.
 
 
-[<-anterior](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/esfuerzo-correcto/)     [siguiente->](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/concentracion-correcta/)
+[<-anterior](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/esfuerzo-correcto/)     [siguiente->](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/concentracion-correcta/)
 
 
 

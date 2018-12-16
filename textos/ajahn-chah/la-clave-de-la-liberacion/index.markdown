@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2016-03-06 11:43:00+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-chah/la-clave-de-la-liberacion/
+link: /textos/ajahn-chah/la-clave-de-la-liberacion/
 slug: la-clave-de-la-liberacion
 title: La clave de la liberación
 wordpress_id: 689
@@ -14,16 +14,16 @@ La siguiente charla sobre el Dhamma fue dada de forma informal a un monje erudit
 
 
 	
-  * [Introducción](https://dhammamagga.wordpress.com/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-introduccion/)
+  * [Introducción](/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-introduccion/)
 
 	
-  * [Teoría y realidad](https://dhammamagga.wordpress.com/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-teoria-y-realidad/)
+  * [Teoría y realidad](/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-teoria-y-realidad/)
 
 	
-  * [Sila, samadhi y pañña](https://dhammamagga.wordpress.com/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-sila-samadhi-y-panna/)
+  * [Sila, samadhi y pañña](/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-sila-samadhi-y-panna/)
 
 	
-  * [Los peligros del apego](https://dhammamagga.wordpress.com/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-los-peligros-del-apego/)
+  * [Los peligros del apego](/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-los-peligros-del-apego/)
 
 
 

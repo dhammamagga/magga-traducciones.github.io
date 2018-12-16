@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2015-01-31 17:51:49+00:00
 layout: post
-link: https://dhammamagga.wordpress.com/2015/01/31/jhana/
+link: /2015/01/31/jhana/
 slug: jhana
 title: Jhana
 wordpress_id: 599
@@ -13,4 +13,4 @@ tags:
 - tailandia
 ---
 
-Añadido capítulo a "Manteniendo la mente en la respiración" de Ajahn Lee, donde hace un resumen de los 4 primeros [jhanas](https://dhammamagga.wordpress.com/textos/ajahn-lee-dhammadharo/manteniendo-la-respiracion-en-la-mente/jhana/).
+Añadido capítulo a "Manteniendo la mente en la respiración" de Ajahn Lee, donde hace un resumen de los 4 primeros [jhanas](/textos/ajahn-lee-dhammadharo/manteniendo-la-respiracion-en-la-mente/jhana/).

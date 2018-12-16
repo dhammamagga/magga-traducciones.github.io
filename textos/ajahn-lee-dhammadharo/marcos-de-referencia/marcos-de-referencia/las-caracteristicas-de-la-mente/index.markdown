@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-19 22:18:45+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/las-caracteristicas-de-la-mente/
+link: /textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/las-caracteristicas-de-la-mente/
 slug: las-caracteristicas-de-la-mente
 title: Las características de la mente
 wordpress_id: 79

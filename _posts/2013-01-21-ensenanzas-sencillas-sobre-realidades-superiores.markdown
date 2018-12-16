@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-21 09:15:15+00:00
 layout: post
-link: https://dhammamagga.wordpress.com/2013/01/21/ensenanzas-sencillas-sobre-realidades-superiores/
+link: /2013/01/21/ensenanzas-sencillas-sobre-realidades-superiores/
 slug: ensenanzas-sencillas-sobre-realidades-superiores
 title: Enseñanzas sencillas sobre realidades superiores
 wordpress_id: 283

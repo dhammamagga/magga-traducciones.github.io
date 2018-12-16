@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-26 00:19:32+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-sucitto/atencion-a-la-respiracion-el-cuerpo/
+link: /textos/ajahn-sucitto/atencion-a-la-respiracion-el-cuerpo/
 slug: atencion-a-la-respiracion-el-cuerpo
 title: 'Atención a la respiración: El cuerpo'
 wordpress_id: 285

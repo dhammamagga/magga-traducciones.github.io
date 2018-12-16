@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-21 07:46:36+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-felicidad/
+link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-felicidad/
 slug: la-felicidad
 title: La felicidad
 wordpress_id: 239
@@ -60,7 +60,7 @@ A medida que la mente se calma experimenta rapto, una sensación de satisfacció
 
 
 
-[->Meditación](http://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/meditacion/)
+[->Meditación]/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/meditacion/)
 
 
 <!-- more -->

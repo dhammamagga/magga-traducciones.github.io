@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-21 08:14:32+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-virtud/
+link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-virtud/
 slug: la-virtud
 title: La virtud
 wordpress_id: 252
@@ -93,7 +93,7 @@ Podemos ver por nosotros mismos que esta riqueza espiritual que estamos acumulan
 
 
 
-[->El karma](http://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/el-karma/)
+[->El karma]/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/el-karma/)
 
 
 <!-- more -->

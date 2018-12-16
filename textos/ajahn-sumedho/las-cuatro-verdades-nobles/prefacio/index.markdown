@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-19 23:30:12+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/prefacio/
+link: /textos/ajahn-sumedho/las-cuatro-verdades-nobles/prefacio/
 slug: prefacio
 title: Prefacio
 wordpress_id: 139
@@ -23,7 +23,7 @@ Nota sobre el texto:
 La primera exposición de las Cuatro Verdades Nobles fue un discurso (sutta) llamado Dhammacakkappavattana Sutta, literalmente ‘el discurso que pone en movimiento el vehículo de la enseñanza’.  Se citan extractos del mismo al comienzo de cada capítulo describiendo las Cuatro Verdades. La referencia citada es la sección de los libros de las escrituras donde puede encontrarse este discurso. Sin embargo, el tema de las Cuatro Verdades Nobles aparece varias veces, por ejemplo en la cita del comienzo de la Introducción.
 
 
-[<-anterior](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/un-punado-de-hojas/)     [->siguiente](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/introduccion/)
+[<-anterior]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/un-punado-de-hojas/)     [->siguiente]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/introduccion/)
 
 
 

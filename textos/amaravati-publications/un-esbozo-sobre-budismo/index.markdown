@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-19 21:47:32+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/amaravati-publications/un-esbozo-sobre-budismo/
+link: /textos/amaravati-publications/un-esbozo-sobre-budismo/
 slug: un-esbozo-sobre-budismo
 title: Un esbozo sobre budismo
 wordpress_id: 49

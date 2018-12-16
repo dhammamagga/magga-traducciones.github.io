@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-02-17 16:02:29+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-lee-dhammadharo/manteniendo-la-respiracion-en-la-mente/metodo-2/
+link: /textos/ajahn-lee-dhammadharo/manteniendo-la-respiracion-en-la-mente/metodo-2/
 slug: metodo-2
 title: Método 2
 wordpress_id: 371

@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-19 23:12:05+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/desarrollando-samadhi/
+link: /textos/ajahn-anan/desarrollando-samadhi/
 slug: desarrollando-samadhi
 title: Desarrollando samadhi
 wordpress_id: 123

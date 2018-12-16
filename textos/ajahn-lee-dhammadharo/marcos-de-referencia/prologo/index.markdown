@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-19 21:56:11+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-lee-dhammadharo/marcos-de-referencia/prologo/
+link: /textos/ajahn-lee-dhammadharo/marcos-de-referencia/prologo/
 slug: prologo
 title: Prólogo
 wordpress_id: 57

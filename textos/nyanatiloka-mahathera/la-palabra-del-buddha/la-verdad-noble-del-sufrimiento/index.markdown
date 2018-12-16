@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-02-20 13:39:18+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-verdad-noble-del-sufrimiento/
+link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-verdad-noble-del-sufrimiento/
 slug: la-verdad-noble-del-sufrimiento
 title: La noble verdad del sufrimiento
 wordpress_id: 396
@@ -242,7 +242,7 @@ S. XV. 1
 Y así has estado sometido durante mucho tiempo al sufrimiento, sometido al tormento, sometido a la desgracia, y llenando cementerios; verdaderamente, tiempo suficiente para estar insatisfecho con todas las formas de existencia, tiempo suficiente para apartaros y liberaros de todas ellas.
 
 
-[<-anterior](http://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/las-cuatro-verdades-nobles/)     [siguiente->](http://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-origen-del-sufrimiento/)
+[<-anterior]/textos/nyanatiloka-mahathera/la-palabra-del-buddha/las-cuatro-verdades-nobles/)     [siguiente->]/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-origen-del-sufrimiento/)
 
 
 

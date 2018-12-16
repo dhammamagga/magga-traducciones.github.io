@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-20 08:17:41+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-segunda-verdad-noble/
+link: /textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-segunda-verdad-noble/
 slug: la-segunda-verdad-noble
 title: La segunda verdad noble
 wordpress_id: 171
@@ -93,7 +93,7 @@ Solía hacer mucho esto cuando me sentía descontento o crítico. Cerraba mis oj
 Cuanto más contemplamos e investigamos el aferramiento, más surge la comprensión intuitiva: ‘El deseo debe dejarse ir.’ Entonces, por medio de la práctica real y el entendimiento de lo que dejar ir es realmente, tenemos la tercera comprensión intuitiva sobre la Segunda Verdad Noble, que es: ‘El deseo se ha dejado ir.’ De hecho sabemos dejar ir. No es un dejar ir teórico, sino una intuición directa. Sabes que el dejar ir ha sido logrado. Sobre esto trata toda la práctica.
 
 
-[<-anterior](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-primera-verdad-noble/)     [siguiente->](http://dhammamagga.wordpress.com/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-tercera-verdad-noble/)
+[<-anterior]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-primera-verdad-noble/)     [siguiente->]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-tercera-verdad-noble/)
 
 
 

@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-02-21 18:58:08+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-de-la-extincion-del-sufrimiento/
+link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-de-la-extincion-del-sufrimiento/
 slug: la-noble-verdad-de-la-extincion-del-sufrimiento
 title: La noble verdad de la extinción del sufrimiento
 wordpress_id: 442
@@ -68,7 +68,7 @@ Hay lo no nacido, no originado, no creado, no formado. Si no hubiese este no nac
 Pero como hay lo no nacido, no originado, no creado, no formado, es posible entonces escapar del mundo de lo nacido, lo originado, lo creado, lo formado.
 
 
-[<-anterior](http://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-origen-del-sufrimiento/)     [siguiente->](https://dhammamagga.wordpress.com/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/)
+[<-anterior]/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-origen-del-sufrimiento/)     [siguiente->](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/)
 
 
 

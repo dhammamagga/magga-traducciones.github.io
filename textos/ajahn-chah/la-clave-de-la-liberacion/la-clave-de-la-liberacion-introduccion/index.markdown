@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2016-03-06 11:49:54+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-introduccion/
+link: /textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-introduccion/
 slug: la-clave-de-la-liberacion-introduccion
 title: La clave de la liberación - Introducción
 wordpress_id: 684
@@ -49,7 +49,7 @@ Verás que al final todas las formaciones mentales y físicas son cosas que hay 
 
 
 
-[siguiente --->](https://dhammamagga.wordpress.com/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-teoria-y-realidad/)
+[siguiente --->](/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-teoria-y-realidad/)
 
 
 

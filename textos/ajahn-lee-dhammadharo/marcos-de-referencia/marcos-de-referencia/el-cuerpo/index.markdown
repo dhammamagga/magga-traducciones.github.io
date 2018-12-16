@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-19 22:12:12+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/el-cuerpo/
+link: /textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/el-cuerpo/
 slug: el-cuerpo
 title: El Cuerpo
 wordpress_id: 69

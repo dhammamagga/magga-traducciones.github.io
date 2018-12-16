@@ -3,7 +3,7 @@ author: dhammamagga
 comments: false
 date: 2013-01-21 08:25:40+00:00
 layout: page
-link: https://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-benevolencia/
+link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-benevolencia/
 slug: la-benevolencia
 title: La benevolencia
 wordpress_id: 261
@@ -112,7 +112,7 @@ Otra vez un hombre vino a Ajahn Chah diciendo "Estoy tan estresado cuidando de m
 
 
 
-[->La sabiduría](http://dhammamagga.wordpress.com/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-sabiduria/)
+[->La sabiduría]/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-sabiduria/)
 
 
 <!-- more -->
