@@ -6,9 +6,7 @@ tags:
 author: dhammamagga
 comments: false
 layout: post
-link: /2013/01/26/atencion-a-la-respiracion-el-cuerpo/
-slug: atencion-a-la-respiracion-el-cuerpo
-title: 'Atención a la respiración: El cuerpo'
+link: "/2013/01/26/atencion-a-la-respiracion-el-cuerpo/"
 wordpress_id: 298
 ---
 

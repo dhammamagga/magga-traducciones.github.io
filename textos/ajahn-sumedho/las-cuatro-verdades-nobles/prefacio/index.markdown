@@ -4,7 +4,7 @@ date: 2013-01-19 23:30:12 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-sumedho/las-cuatro-verdades-nobles/prefacio/
+link: "/textos/ajahn-sumedho/las-cuatro-verdades-nobles/prefacio/"
 slug: prefacio
 wordpress_id: 139
 ---

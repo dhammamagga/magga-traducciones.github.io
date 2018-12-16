@@ -4,7 +4,7 @@ date: 2013-01-19 21:24:09 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/thanissaro-bhikkhu/
+link: "/textos/thanissaro-bhikkhu/"
 slug: thanissaro-bhikkhu
 wordpress_id: 20
 ---

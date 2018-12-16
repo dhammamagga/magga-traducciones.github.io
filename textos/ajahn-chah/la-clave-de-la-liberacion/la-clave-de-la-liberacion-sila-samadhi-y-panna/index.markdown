@@ -4,7 +4,7 @@ date: 2016-03-20 16:15:04 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-sila-samadhi-y-panna/
+link: "/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-sila-samadhi-y-panna/"
 slug: la-clave-de-la-liberacion-sila-samadhi-y-panna
 wordpress_id: 709
 ---

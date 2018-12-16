@@ -4,7 +4,7 @@ date: 2013-01-21 08:29:18 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-sabiduria/
+link: "/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-sabiduria/"
 slug: la-sabiduria
 wordpress_id: 263
 ---

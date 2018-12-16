@@ -4,7 +4,7 @@ date: 2013-01-26 00:20:06 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-sucitto/
+link: "/textos/ajahn-sucitto/"
 slug: ajahn-sucitto
 wordpress_id: 291
 ---

@@ -4,7 +4,7 @@ date: 2013-01-21 08:08:24 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/motivacion/
+link: "/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/motivacion/"
 slug: motivacion
 wordpress_id: 249
 ---

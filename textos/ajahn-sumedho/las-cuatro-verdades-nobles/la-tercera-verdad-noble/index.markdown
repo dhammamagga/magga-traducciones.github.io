@@ -4,7 +4,7 @@ date: 2013-01-20 08:22:28 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-tercera-verdad-noble/
+link: "/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-tercera-verdad-noble/"
 slug: la-tercera-verdad-noble
 wordpress_id: 173
 ---

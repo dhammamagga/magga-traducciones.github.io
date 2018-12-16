@@ -4,7 +4,7 @@ date: 2015-02-14 17:00:47 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/accion-correcta/
+link: "/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/accion-correcta/"
 slug: accion-correcta
 wordpress_id: 639
 ---

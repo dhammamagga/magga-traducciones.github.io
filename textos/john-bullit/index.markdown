@@ -4,7 +4,7 @@ date: 2013-01-19 21:31:47 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/john-bullit/
+link: "/textos/john-bullit/"
 slug: john-bullit
 wordpress_id: 37
 ---

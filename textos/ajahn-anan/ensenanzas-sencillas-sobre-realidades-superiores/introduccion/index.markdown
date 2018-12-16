@@ -4,7 +4,7 @@ date: 2013-01-21 07:38:29 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/introduccion/
+link: "/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/introduccion/"
 slug: introduccion
 wordpress_id: 237
 ---

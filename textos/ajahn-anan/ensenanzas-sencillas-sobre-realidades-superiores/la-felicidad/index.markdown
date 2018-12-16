@@ -4,7 +4,7 @@ date: 2013-01-21 07:46:36 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-felicidad/
+link: "/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-felicidad/"
 slug: la-felicidad
 wordpress_id: 239
 ---

@@ -4,7 +4,7 @@ date: 2013-01-19 22:15:34 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/las-sensaciones/
+link: "/textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/las-sensaciones/"
 slug: las-sensaciones
 wordpress_id: 72
 ---

@@ -4,7 +4,7 @@ date: 2013-01-21 08:02:51 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-atencion/
+link: "/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-atencion/"
 slug: la-atencion
 wordpress_id: 246
 ---

@@ -4,7 +4,7 @@ date: 2013-01-21 08:14:32 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-virtud/
+link: "/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-virtud/"
 slug: la-virtud
 wordpress_id: 252
 ---

@@ -4,7 +4,7 @@ date: 2013-01-19 21:29:37 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-buddhadasa/
+link: "/textos/ajahn-buddhadasa/"
 slug: ajahn-buddhadasa
 wordpress_id: 29
 ---

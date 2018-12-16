@@ -4,7 +4,7 @@ date: 2013-01-19 23:22:26 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/thanissaro-bhikkhu/jhana-sin-numerarlos/
+link: "/textos/thanissaro-bhikkhu/jhana-sin-numerarlos/"
 slug: jhana-sin-numerarlos
 wordpress_id: 130
 ---

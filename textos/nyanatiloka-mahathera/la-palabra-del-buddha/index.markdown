@@ -4,7 +4,7 @@ date: 2013-02-20 13:08:04 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/
+link: "/textos/nyanatiloka-mahathera/la-palabra-del-buddha/"
 slug: la-palabra-del-buddha
 wordpress_id: 391
 ---

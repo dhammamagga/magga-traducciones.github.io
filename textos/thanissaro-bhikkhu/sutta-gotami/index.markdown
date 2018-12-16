@@ -4,7 +4,7 @@ date: 2013-01-19 23:09:26 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/thanissaro-bhikkhu/sutta-gotami/
+link: "/textos/thanissaro-bhikkhu/sutta-gotami/"
 slug: sutta-gotami
 wordpress_id: 114
 ---

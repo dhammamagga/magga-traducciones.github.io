@@ -4,7 +4,7 @@ date: 2013-01-19 21:20:30 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/thanissaro-bhikkhu/el-observador/
+link: "/textos/thanissaro-bhikkhu/el-observador/"
 slug: el-observador
 wordpress_id: 11
 ---

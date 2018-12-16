@@ -4,7 +4,7 @@ date: 2013-01-19 21:40:45 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-buddhadasa/extractos-sobre-que-es-el-budismo/
+link: "/textos/ajahn-buddhadasa/extractos-sobre-que-es-el-budismo/"
 slug: extractos-sobre-que-es-el-budismo
 wordpress_id: 46
 ---

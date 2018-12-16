@@ -4,7 +4,7 @@ date: 2013-02-21 18:58:08 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-de-la-extincion-del-sufrimiento/
+link: "/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-de-la-extincion-del-sufrimiento/"
 slug: la-noble-verdad-de-la-extincion-del-sufrimiento
 wordpress_id: 442
 ---

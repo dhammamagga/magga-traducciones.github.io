@@ -4,7 +4,7 @@ date: 2013-01-19 22:17:59 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/la-mente/
+link: "/textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/la-mente/"
 slug: la-mente
 wordpress_id: 77
 ---

@@ -4,9 +4,7 @@ date: 2016-03-28 11:20:06 Z
 author: dhammamagga
 comments: false
 layout: post
-link: /2016/03/28/ajahn-chah-los-peligros-del-apego/
-slug: ajahn-chah-los-peligros-del-apego
-title: Ajahn Chah, los peligros del apego
+link: "/2016/03/28/ajahn-chah-los-peligros-del-apego/"
 wordpress_id: 727
 ---
 

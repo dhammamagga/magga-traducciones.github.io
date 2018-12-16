@@ -4,7 +4,7 @@ date: 2013-02-20 13:39:18 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-verdad-noble-del-sufrimiento/
+link: "/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-verdad-noble-del-sufrimiento/"
 slug: la-verdad-noble-del-sufrimiento
 wordpress_id: 396
 ---

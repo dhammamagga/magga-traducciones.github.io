@@ -4,7 +4,7 @@ date: 2013-01-20 08:17:41 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-segunda-verdad-noble/
+link: "/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-segunda-verdad-noble/"
 slug: la-segunda-verdad-noble
 wordpress_id: 171
 ---

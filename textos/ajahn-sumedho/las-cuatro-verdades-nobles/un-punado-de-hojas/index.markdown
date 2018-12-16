@@ -4,7 +4,7 @@ date: 2013-01-19 23:28:27 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-sumedho/las-cuatro-verdades-nobles/un-punado-de-hojas/
+link: "/textos/ajahn-sumedho/las-cuatro-verdades-nobles/un-punado-de-hojas/"
 slug: un-punado-de-hojas
 wordpress_id: 136
 ---

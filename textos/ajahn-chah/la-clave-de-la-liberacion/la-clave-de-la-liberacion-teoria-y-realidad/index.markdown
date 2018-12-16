@@ -4,7 +4,7 @@ date: 2016-03-06 12:03:39 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-teoria-y-realidad/
+link: "/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-teoria-y-realidad/"
 slug: la-clave-de-la-liberacion-teoria-y-realidad
 wordpress_id: 695
 ---

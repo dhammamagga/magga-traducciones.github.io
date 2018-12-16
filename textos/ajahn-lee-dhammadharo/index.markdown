@@ -4,7 +4,7 @@ date: 2013-01-19 21:30:49 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-lee-dhammadharo/
+link: "/textos/ajahn-lee-dhammadharo/"
 slug: ajahn-lee-dhammadharo
 wordpress_id: 33
 ---

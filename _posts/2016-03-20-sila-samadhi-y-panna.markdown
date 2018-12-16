@@ -4,9 +4,7 @@ date: 2016-03-20 16:19:01 Z
 author: dhammamagga
 comments: false
 layout: post
-link: /2016/03/20/sila-samadhi-y-panna/
-slug: sila-samadhi-y-panna
-title: Sila, samadhi y pañña
+link: "/2016/03/20/sila-samadhi-y-panna/"
 wordpress_id: 715
 ---
 

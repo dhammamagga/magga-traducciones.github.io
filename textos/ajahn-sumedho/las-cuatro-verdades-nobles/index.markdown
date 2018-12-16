@@ -4,7 +4,7 @@ date: 2013-01-19 23:25:45 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-sumedho/las-cuatro-verdades-nobles/
+link: "/textos/ajahn-sumedho/las-cuatro-verdades-nobles/"
 slug: las-cuatro-verdades-nobles
 wordpress_id: 132
 ---

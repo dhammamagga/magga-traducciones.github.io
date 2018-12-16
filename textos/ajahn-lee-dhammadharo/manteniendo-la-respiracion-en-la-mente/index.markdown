@@ -4,7 +4,7 @@ date: 2013-02-16 14:09:20 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-lee-dhammadharo/manteniendo-la-respiracion-en-la-mente/
+link: "/textos/ajahn-lee-dhammadharo/manteniendo-la-respiracion-en-la-mente/"
 slug: manteniendo-la-respiracion-en-la-mente
 wordpress_id: 353
 ---

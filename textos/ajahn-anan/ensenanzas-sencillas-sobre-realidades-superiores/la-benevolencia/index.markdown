@@ -4,7 +4,7 @@ date: 2013-01-21 08:25:40 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-benevolencia/
+link: "/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-benevolencia/"
 slug: la-benevolencia
 wordpress_id: 261
 ---

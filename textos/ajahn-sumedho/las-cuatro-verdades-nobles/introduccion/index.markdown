@@ -4,7 +4,7 @@ date: 2013-01-19 23:32:11 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-sumedho/las-cuatro-verdades-nobles/introduccion/
+link: "/textos/ajahn-sumedho/las-cuatro-verdades-nobles/introduccion/"
 slug: introduccion
 wordpress_id: 141
 ---

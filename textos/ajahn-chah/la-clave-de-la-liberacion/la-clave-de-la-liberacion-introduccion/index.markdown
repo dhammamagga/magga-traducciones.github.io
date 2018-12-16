@@ -4,7 +4,7 @@ date: 2016-03-06 11:49:54 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-introduccion/
+link: "/textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-introduccion/"
 slug: la-clave-de-la-liberacion-introduccion
 wordpress_id: 684
 ---

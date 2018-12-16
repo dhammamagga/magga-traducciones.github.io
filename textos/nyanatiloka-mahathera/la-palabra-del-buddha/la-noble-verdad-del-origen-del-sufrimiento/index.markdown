@@ -4,7 +4,7 @@ date: 2013-02-21 14:06:17 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-origen-del-sufrimiento/
+link: "/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-origen-del-sufrimiento/"
 slug: la-noble-verdad-del-origen-del-sufrimiento
 wordpress_id: 420
 ---

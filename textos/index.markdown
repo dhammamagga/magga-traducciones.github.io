@@ -4,11 +4,11 @@ date: 2013-01-19 21:23:36 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/
+link: "/textos/"
 slug: textos
 wordpress_id: 18
 ---
-	
+
             * [Ajahn Anan](/textos/ajahn-anan/)
 
 	

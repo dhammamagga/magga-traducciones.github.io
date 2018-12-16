@@ -4,7 +4,7 @@ date: 2013-01-19 22:19:21 Z
 author: dhammamagga
 comments: false
 layout: page
-link: /textos/ajahn-lee-dhammadharo/marcos-de-referencia/resumen/
+link: "/textos/ajahn-lee-dhammadharo/marcos-de-referencia/resumen/"
 slug: resumen
 wordpress_id: 81
 ---
