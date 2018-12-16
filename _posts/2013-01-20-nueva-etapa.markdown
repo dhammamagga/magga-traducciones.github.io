@@ -1,0 +1,18 @@
+---
+author: dhammamagga
+comments: false
+date: 2013-01-20 00:50:31+00:00
+layout: post
+link: https://dhammamagga.wordpress.com/2013/01/20/nueva-etapa/
+slug: nueva-etapa
+title: Nueva etapa
+wordpress_id: 157
+---
+
+Nueva etapa en wordpress después de 4 años en dhammamagga.org, con casi todos los textos revisados y en breve el libro completo de Ajahn Anan, Enseñanzas sencillas sobre realidades superiores. También el método uno de Ajahn Lee está pendiente de revisión, lo que igual es el inicio de la traducción de "Keeping the breath in mind"...
+
+He añadido enlaces para descargar el [Dhammapada de Ajahn Munindo](http://dhammamagga.wordpress.com/textos/ajahn-munindo/dhammapada/) en epub y mobi desde forestsangha.org, y desde iTunes.
+
+Espero que sea útil,
+
+Buena práctica.
