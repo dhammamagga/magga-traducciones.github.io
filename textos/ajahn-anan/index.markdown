@@ -12,4 +12,4 @@ layout: page
 ---
 
   * [Desarrollando samadhi](/textos/ajahn-anan/desarrollando-samadhi/)	
-  * [Enseñanzas sencillas sobre realidades superiores](_posts/2013-01-21-ensenanzas-sencillas-sobre-realidades-superiores.markdown/)
+  * [Enseñanzas sencillas sobre realidades superiores](/_posts/2013-01-21-ensenanzas-sencillas-sobre-realidades-superiores.markdown/)
