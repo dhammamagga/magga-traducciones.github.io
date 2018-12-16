@@ -1,11 +1,11 @@
 ---
+title: Pensamiento correcto
+date: 2015-02-14 15:10:59 Z
 author: dhammamagga
 comments: false
-date: 2015-02-14 15:10:59+00:00
 layout: page
 link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/pensamiento-correcto/
 slug: pensamiento-correcto
-title: Pensamiento correcto
 wordpress_id: 617
 ---
 

@@ -1,7 +1,8 @@
 ---
+title: Sila, samadhi y pañña
+date: 2016-03-20 16:19:01 Z
 author: dhammamagga
 comments: false
-date: 2016-03-20 16:19:01+00:00
 layout: post
 link: /2016/03/20/sila-samadhi-y-panna/
 slug: sila-samadhi-y-panna

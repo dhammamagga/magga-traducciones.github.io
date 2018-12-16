@@ -1,11 +1,11 @@
 ---
+title: La clave de la liberación - Los peligros del apego
+date: 2016-03-28 11:15:23 Z
 author: dhammamagga
 comments: false
-date: 2016-03-28 11:15:23+00:00
 layout: page
 link: /textos/ajahn-chah/la-clave-de-la-liberacion/la-clave-de-la-liberacion-los-peligros-del-apego/
 slug: la-clave-de-la-liberacion-los-peligros-del-apego
-title: La clave de la liberación - Los peligros del apego
 wordpress_id: 718
 ---
 

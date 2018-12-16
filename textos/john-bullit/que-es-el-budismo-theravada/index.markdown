@@ -1,11 +1,11 @@
 ---
+title: "¿Qué es el budismo Theravada?"
+date: 2013-01-19 23:05:21 Z
 author: dhammamagga
 comments: false
-date: 2013-01-19 23:05:21+00:00
 layout: page
 link: /textos/john-bullit/que-es-el-budismo-theravada/
 slug: que-es-el-budismo-theravada
-title: ¿Qué es el budismo Theravada?
 wordpress_id: 110
 ---
 

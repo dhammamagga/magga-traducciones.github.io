@@ -1,11 +1,11 @@
 ---
+title: Ansiedad social
+date: 2017-10-21 16:27:41 Z
 author: dhammamagga
 comments: false
-date: 2017-10-21 16:27:41+00:00
 layout: page
 link: /textos/thanissaro-bhikkhu/ansiedad-social/
 slug: ansiedad-social
-title: Ansiedad social
 wordpress_id: 733
 ---
 

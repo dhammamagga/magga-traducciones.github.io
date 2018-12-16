@@ -1,11 +1,11 @@
 ---
+title: Meditación
+date: 2013-01-21 07:57:06 Z
 author: dhammamagga
 comments: false
-date: 2013-01-21 07:57:06+00:00
 layout: page
 link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/meditacion/
 slug: meditacion
-title: Meditación
 wordpress_id: 243
 ---
 

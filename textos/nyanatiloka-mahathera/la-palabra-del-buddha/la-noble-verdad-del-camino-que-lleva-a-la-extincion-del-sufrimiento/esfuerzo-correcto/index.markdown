@@ -1,11 +1,11 @@
 ---
+title: Esfuerzo correcto
+date: 2016-02-12 18:55:58 Z
 author: dhammamagga
 comments: false
-date: 2016-02-12 18:55:58+00:00
 layout: page
 link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/esfuerzo-correcto/
 slug: esfuerzo-correcto
-title: Esfuerzo correcto
 wordpress_id: 663
 ---
 

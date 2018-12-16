@@ -1,11 +1,11 @@
 ---
+title: Las cuatro verdades nobles
+date: 2013-02-20 13:14:42 Z
 author: dhammamagga
 comments: false
-date: 2013-02-20 13:14:42+00:00
 layout: page
 link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/las-cuatro-verdades-nobles/
 slug: las-cuatro-verdades-nobles
-title: Las cuatro verdades nobles
 wordpress_id: 393
 ---
 

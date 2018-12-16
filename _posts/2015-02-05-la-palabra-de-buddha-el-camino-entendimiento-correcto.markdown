@@ -1,14 +1,15 @@
 ---
+title: La palabra de Buddha -  El camino - entendimiento correcto
+date: 2015-02-05 17:58:15 Z
+tags:
+- Nyanatiloka
 author: dhammamagga
 comments: false
-date: 2015-02-05 17:58:15+00:00
 layout: post
 link: /2015/02/05/la-palabra-de-buddha-el-camino-entendimiento-correcto/
 slug: la-palabra-de-buddha-el-camino-entendimiento-correcto
 title: La palabra de Buddha -  El camino - entendimiento correcto
 wordpress_id: 615
-tags:
-- Nyanatiloka
 ---
 
 Introducción y entendimiento correcto.

@@ -1,7 +1,8 @@
 ---
+title: Nueva etapa
+date: 2013-01-20 00:50:31 Z
 author: dhammamagga
 comments: false
-date: 2013-01-20 00:50:31+00:00
 layout: post
 link: /2013/01/20/nueva-etapa/
 slug: nueva-etapa

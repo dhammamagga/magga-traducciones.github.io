@@ -1,11 +1,11 @@
 ---
+title: La palabra del Buddha
+date: 2013-02-20 13:08:04 Z
 author: dhammamagga
 comments: false
-date: 2013-02-20 13:08:04+00:00
 layout: page
 link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/
 slug: la-palabra-del-buddha
-title: La palabra del Buddha
 wordpress_id: 391
 ---
 

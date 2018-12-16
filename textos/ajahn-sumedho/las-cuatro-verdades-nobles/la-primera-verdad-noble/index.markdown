@@ -1,11 +1,11 @@
 ---
+title: La primera verdad noble
+date: 2013-01-20 08:13:26 Z
 author: dhammamagga
 comments: false
-date: 2013-01-20 08:13:26+00:00
 layout: page
 link: /textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-primera-verdad-noble/
 slug: la-primera-verdad-noble
-title: La primera verdad noble
 wordpress_id: 167
 ---
 

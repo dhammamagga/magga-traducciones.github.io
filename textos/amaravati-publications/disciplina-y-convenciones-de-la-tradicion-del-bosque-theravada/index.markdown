@@ -1,11 +1,11 @@
 ---
+title: Disciplina y convenciones de la tradición del bosque theravada
+date: 2013-02-07 19:07:25 Z
 author: dhammamagga
 comments: false
-date: 2013-02-07 19:07:25+00:00
 layout: page
 link: /textos/amaravati-publications/disciplina-y-convenciones-de-la-tradicion-del-bosque-theravada/
 slug: disciplina-y-convenciones-de-la-tradicion-del-bosque-theravada
-title: Disciplina y convenciones de la tradición del bosque theravada
 wordpress_id: 321
 ---
 

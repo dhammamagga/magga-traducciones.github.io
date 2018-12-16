@@ -1,11 +1,11 @@
 ---
+title: La noble verdad del camino que lleva a la extinción del sufrimiento
+date: 2015-02-05 17:42:36 Z
 author: dhammamagga
 comments: false
-date: 2015-02-05 17:42:36+00:00
 layout: page
 link: /textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/
 slug: la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento
-title: La noble verdad del camino que lleva a la extinción del sufrimiento
 wordpress_id: 474
 ---
 

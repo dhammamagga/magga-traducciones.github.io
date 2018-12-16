@@ -1,11 +1,11 @@
 ---
+title: La felicidad
+date: 2013-01-21 07:46:36 Z
 author: dhammamagga
 comments: false
-date: 2013-01-21 07:46:36+00:00
 layout: page
 link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-felicidad/
 slug: la-felicidad
-title: La felicidad
 wordpress_id: 239
 ---
 

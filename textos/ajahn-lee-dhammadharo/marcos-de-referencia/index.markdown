@@ -1,11 +1,11 @@
 ---
+title: Marcos de referencia
+date: 2013-01-19 21:52:59 Z
 author: dhammamagga
 comments: false
-date: 2013-01-19 21:52:59+00:00
 layout: page
 link: /textos/ajahn-lee-dhammadharo/marcos-de-referencia/
 slug: marcos-de-referencia
-title: Marcos de referencia
 wordpress_id: 53
 ---
 

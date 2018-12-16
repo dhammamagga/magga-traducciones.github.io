@@ -1,11 +1,11 @@
 ---
+title: La clave de la liberación
+date: 2016-03-06 11:43:00 Z
 author: dhammamagga
 comments: false
-date: 2016-03-06 11:43:00+00:00
 layout: page
 link: /textos/ajahn-chah/la-clave-de-la-liberacion/
 slug: la-clave-de-la-liberacion
-title: La clave de la liberación
 wordpress_id: 689
 ---
 

@@ -1,11 +1,11 @@
 ---
+title: dhammamagga
+date: 2013-01-20 14:19:32 Z
 author: dhammamagga
 comments: false
-date: 2013-01-20 14:19:32+00:00
 layout: page
 link: /dhammamagga/
 slug: dhammamagga
-title: dhammamagga
 wordpress_id: 218
 ---
 

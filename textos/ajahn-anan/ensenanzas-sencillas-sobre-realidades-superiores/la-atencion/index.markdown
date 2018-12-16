@@ -1,11 +1,11 @@
 ---
+title: La atención
+date: 2013-01-21 08:02:51 Z
 author: dhammamagga
 comments: false
-date: 2013-01-21 08:02:51+00:00
 layout: page
 link: /textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-atencion/
 slug: la-atencion
-title: La atención
 wordpress_id: 246
 ---
 
