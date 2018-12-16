@@ -1,17 +1,17 @@
 ---
 title: Textos
-date: 2013-01-19 21:23:36 Z
+date: 2013-01-19 21:23:00 Z
 author: dhammamagga
 comments: false
-layout: page
 link: "/textos/"
 slug: textos
 wordpress_id: 18
+layout: page
 ---
 
-            * [Ajahn Anan](/textos/ajahn-anan/)
+            [Ajahn Anan](/textos/ajahn-anan/)
 
-	
+
             * [Ajahn Buddhadasa](/textos/ajahn-buddhadasa/)
 
 	
