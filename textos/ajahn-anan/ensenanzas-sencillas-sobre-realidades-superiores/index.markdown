@@ -14,7 +14,7 @@ wordpress_id: 233
 
 
 
-Ajahn Anan<!-- more -->
+## Ajahn Anan<!-- more -->
 
 * [Introducción](/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/introduccion/)
 
