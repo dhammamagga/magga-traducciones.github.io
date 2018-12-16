@@ -47,7 +47,8 @@ wordpress_id: 233
 
 <!-- more -->
 
-
+  
+---  
 Fuente: [Ajahn Anan - Simple Teachings on Higher Truths](http://www.watmarpjan.org/en/en-book-cds.html)
 Libre distribución siempre que sea sin alterar el contenido, de forma gratuita y citando las fuentes.
 dhammammagga 2013
