@@ -60,7 +60,7 @@ A medida que la mente se calma experimenta rapto, una sensación de satisfacció
 
 
 
-[->Meditación]/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/meditacion/)
+[->Meditación](/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/meditacion/)
 
 
 <!-- more -->

@@ -22,16 +22,16 @@ Compilado, traducido y explicado por Nyanatiloka Mahathera
 
 
 	
-  * [Las cuatro verdades nobles]/textos/nyanatiloka-mahathera/la-palabra-del-buddha/las-cuatro-verdades-nobles/)
+  * [Las cuatro verdades nobles](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/las-cuatro-verdades-nobles/)
 
 	
-  * [La noble verdad del sufrimiento]/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-verdad-noble-del-sufrimiento/)
+  * [La noble verdad del sufrimiento](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-verdad-noble-del-sufrimiento/)
 
 	
-  * [La noble verdad del origen del sufrimiento]/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-origen-del-sufrimiento/)
+  * [La noble verdad del origen del sufrimiento](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-origen-del-sufrimiento/)
 
 	
-  * [La noble verdad de la extinción del sufrimiento]/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-de-la-extincion-del-sufrimiento/)
+  * [La noble verdad de la extinción del sufrimiento](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-de-la-extincion-del-sufrimiento/)
 
 	
   * [La noble verdad del camino que lleva a la extinción de sufrimiento](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/)

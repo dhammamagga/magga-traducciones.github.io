@@ -11,6 +11,6 @@ wordpress_id: 291
 
 
 	
-  * [Atención a la respiración: el cuerpo]/textos/ajahn-succito/atencion-a-la-respiracion-el-cuerpo/)
+  * [Atención a la respiración: el cuerpo](/textos/ajahn-succito/atencion-a-la-respiracion-el-cuerpo/)
 
 

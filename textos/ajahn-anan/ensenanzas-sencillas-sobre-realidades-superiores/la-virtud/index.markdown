@@ -93,7 +93,7 @@ Podemos ver por nosotros mismos que esta riqueza espiritual que estamos acumulan
 
 
 
-[->El karma]/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/el-karma/)
+[->El karma](/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/el-karma/)
 
 
 <!-- more -->

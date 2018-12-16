@@ -11,6 +11,6 @@ wordpress_id: 389
 
 
 	
-  * [La palabra del Buddha]/textos/nyanatiloka-mahathera/la-palabra-del-buddha/)
+  * [La palabra del Buddha](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/)
 
 

@@ -16,37 +16,37 @@ wordpress_id: 18
 
 
 	
-            * [Ajahn Anan]/textos/ajahn-anan/)
+            * [Ajahn Anan](/textos/ajahn-anan/)
 
 	
-            * [Ajahn Buddhadasa]/textos/ajahn-buddhadasa/)
+            * [Ajahn Buddhadasa](/textos/ajahn-buddhadasa/)
 
 	
-            * [Ajahn Chah]/textos/ajahn-chah/)
+            * [Ajahn Chah](/textos/ajahn-chah/)
 
 	
-            * [Ajahn Lee]/textos/ajahn-lee-dhammadharo/)
+            * [Ajahn Lee](/textos/ajahn-lee-dhammadharo/)
 
 	
-            * [Ajahn Munindo]/textos/ajahn-munindo/)
+            * [Ajahn Munindo](/textos/ajahn-munindo/)
 
 	
-            * [Ajahn Sucitto]/textos/ajahn-sucitto/)
+            * [Ajahn Sucitto](/textos/ajahn-sucitto/)
 
 	
-            * [Ajahn Sumedho]/textos/ajahn-sumedho/)
+            * [Ajahn Sumedho](/textos/ajahn-sumedho/)
 
 	
-            * [Amaravati Publications]/textos/amaravati-publications/)
+            * [Amaravati Publications](/textos/amaravati-publications/)
 
 	
-            * [John Bullit]/textos/john-bullit/)
+            * [John Bullit](/textos/john-bullit/)
 
 	
-            * [Nyanatiloka Mahathera]/textos/nyanatiloka-mahathera/)
+            * [Nyanatiloka Mahathera](/textos/nyanatiloka-mahathera/)
 
 	
-            * [Thanissaro Bhikkhu]/textos/thanissaro-bhikkhu/)
+            * [Thanissaro Bhikkhu](/textos/thanissaro-bhikkhu/)
 
 
 

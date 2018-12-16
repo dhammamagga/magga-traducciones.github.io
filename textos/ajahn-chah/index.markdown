@@ -11,6 +11,6 @@ wordpress_id: 35
 
 
 	
-  * [Simplemente ¡Hazlo!]/textos/ajahn-chah/hazlo/)
+  * [Simplemente ¡Hazlo!](/textos/ajahn-chah/hazlo/)
 
 

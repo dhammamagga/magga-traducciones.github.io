@@ -122,7 +122,7 @@ Así que estos son los tres aspectos de la Primera Verdad Noble. Esta es la fór
 [2] Los nombres de las montañas de Suiza.
 
 
-[<-anterior]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/introduccion/)     [siguiente->]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-segunda-verdad-noble/)
+[<-anterior](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/introduccion/)     [siguiente->](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-segunda-verdad-noble/)
 
 
 

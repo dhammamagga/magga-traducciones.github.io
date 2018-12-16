@@ -82,7 +82,7 @@ Al combinar generosidad, virtud, buenas intenciones y meditación estaremos fort
 
 
 
-[->Dejar ir]/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/dejar-ir/)
+[->Dejar ir](/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/dejar-ir/)
 
 
 

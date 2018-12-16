@@ -27,34 +27,34 @@ Ajahn Lee Dhammadharo
 
 
 	
-  1. [Prólogo]/textos/ajahn-lee-dhammadharo/marcos-de-referencia/prologo/)
+  1. [Prólogo](/textos/ajahn-lee-dhammadharo/marcos-de-referencia/prologo/)
 
 	
-  2. [Introducción]/textos/ajahn-lee-dhammadharo/marcos-de-referencia/introduccion/)
+  2. [Introducción](/textos/ajahn-lee-dhammadharo/marcos-de-referencia/introduccion/)
 
 	
-  3. [Marcos de referencia]/textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/)
+  3. [Marcos de referencia](/textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/)
 
 	
-    1. [El cuerpo]/textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/el-cuerpo/)
+    1. [El cuerpo](/textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/el-cuerpo/)
 
 	
-    2. [Las sensaciones]/textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/las-sensaciones/)
+    2. [Las sensaciones](/textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/las-sensaciones/)
 
 	
-    3. [La mente]/textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/la-mente/)
+    3. [La mente](/textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/la-mente/)
 
 	
-    4. [Las características de la mente]/textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/las-caracteristicas-de-la-mente/)
+    4. [Las características de la mente](/textos/ajahn-lee-dhammadharo/marcos-de-referencia/marcos-de-referencia/las-caracteristicas-de-la-mente/)
 
 
 
 
 	
-  4.  [Resumen]/textos/ajahn-lee-dhammadharo/marcos-de-referencia/resumen/)
+  4.  [Resumen](/textos/ajahn-lee-dhammadharo/marcos-de-referencia/resumen/)
 
 	
-  5.  [Glosario]/textos/ajahn-lee-dhammadharo/marcos-de-referencia/glosario/)
+  5.  [Glosario](/textos/ajahn-lee-dhammadharo/marcos-de-referencia/glosario/)
 
 
 <!-- more -->

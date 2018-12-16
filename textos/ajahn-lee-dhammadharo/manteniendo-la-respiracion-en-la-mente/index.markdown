@@ -36,10 +36,10 @@ Ajahn Lee Dhammadharo
   3. Preliminares
 
 	
-  4. [Método 1]/textos/ajahn-lee-dhammadharo/manteniendo-la-respiracion-en-la-mente/metodo-1/)
+  4. [Método 1](/textos/ajahn-lee-dhammadharo/manteniendo-la-respiracion-en-la-mente/metodo-1/)
 
 	
-  5. [Método 2]/textos/ajahn-lee-dhammadharo/manteniendo-la-respiracion-en-la-mente/metodo-2/)
+  5. [Método 2](/textos/ajahn-lee-dhammadharo/manteniendo-la-respiracion-en-la-mente/metodo-2/)
 
 	
   6. [Jhana](/textos/ajahn-lee-dhammadharo/manteniendo-la-respiracion-en-la-mente/jhana/)<!-- more -->

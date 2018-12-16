@@ -75,7 +75,7 @@ Una casa es un lugar para descansar y cobijarse. Salimos, vamos a trabajar y hac
 
 
 
-[->Motivación]/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/motivacion/)
+[->Motivación](/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/motivacion/)
 
 
 <!-- more -->

@@ -45,7 +45,7 @@ _ Homenaje al Bendito, Noble y Perfectamente Iluminado_
 
 
 
-[->La felicidad]/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-felicidad/)
+[->La felicidad](/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-felicidad/)
 
 
 <!-- more -->

@@ -11,6 +11,6 @@ wordpress_id: 37
 
 
 	
-  * [¿Qué es el budismo theravada?]/textos/john-bullit/que-es-el-budismo-theravada/)
+  * [¿Qué es el budismo theravada?](/textos/john-bullit/que-es-el-budismo-theravada/)
 
 

@@ -29,7 +29,7 @@ _[Samyutta Nikaya, LVI, 31]_
 
 
 
-[<-anterior]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/)     [siguiente->]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/prefacio/)
+[<-anterior](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/)     [siguiente->](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/prefacio/)
 
 
 

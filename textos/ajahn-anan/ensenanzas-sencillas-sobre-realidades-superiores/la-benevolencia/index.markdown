@@ -112,7 +112,7 @@ Otra vez un hombre vino a Ajahn Chah diciendo "Estoy tan estresado cuidando de m
 
 
 
-[->La sabiduría]/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-sabiduria/)
+[->La sabiduría](/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-sabiduria/)
 
 
 <!-- more -->

@@ -104,7 +104,7 @@ Reflexiona en lo rápido que pasa la vida, día tras día, mes tras mes, año tr
 
 
 
-[->La virtud]/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-virtud/)
+[->La virtud](/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-virtud/)
 
 
 <!-- more -->

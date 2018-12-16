@@ -68,7 +68,7 @@ Hay lo no nacido, no originado, no creado, no formado. Si no hubiese este no nac
 Pero como hay lo no nacido, no originado, no creado, no formado, es posible entonces escapar del mundo de lo nacido, lo originado, lo creado, lo formado.
 
 
-[<-anterior]/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-origen-del-sufrimiento/)     [siguiente->](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/)
+[<-anterior](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-origen-del-sufrimiento/)     [siguiente->](/textos/nyanatiloka-mahathera/la-palabra-del-buddha/la-noble-verdad-del-camino-que-lleva-a-la-extincion-del-sufrimiento/)
 
 
 

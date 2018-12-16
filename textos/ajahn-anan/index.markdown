@@ -11,9 +11,9 @@ wordpress_id: 41
 
 
 	
-  * [Desarrollando samadhi]/textos/ajahn-anan/desarrollando-samadhi/)
+  * [Desarrollando samadhi](/textos/ajahn-anan/desarrollando-samadhi/)
 
 	
-  * [Enseñanzas sencillas sobre realidades superiores]/2013/01/21/ensenanzas-sencillas-sobre-realidades-superiores/)
+  * [Enseñanzas sencillas sobre realidades superiores](/2013/01/21/ensenanzas-sencillas-sobre-realidades-superiores/)
 
 

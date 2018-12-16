@@ -261,7 +261,7 @@ Ahora ¿Cómo hacemos eso? Bien, primero tenemos que mirar a nuestras dudas y mi
 Comenzamos con el cómo son las cosas tal y como resultan ser justo ahora – como la respiración es nuestros cuerpos. ¿Qué tiene esto que ver con la Realidad, con la iluminación? ¿Observar mi respiración significa que estoy iluminado? Pero cuanto más intentas pensar en ello e imaginarte lo que es, más dubitativo e inseguro te sentirás. Todo lo que podemos hacer en esta forma convencional es dejar ir el engaño. Esa es la práctica de las Cuatro Verdades Nobles y el desarrollo del Sendero Óctuple.
 
 
-[<-anterior]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-tercera-verdad-noble/)
+[<-anterior](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-tercera-verdad-noble/)
 
 
 

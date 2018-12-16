@@ -11,6 +11,6 @@ wordpress_id: 39
 
 
 	
-  * [Las cuatro verdades nobles]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/)
+  * [Las cuatro verdades nobles](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/)
 
 

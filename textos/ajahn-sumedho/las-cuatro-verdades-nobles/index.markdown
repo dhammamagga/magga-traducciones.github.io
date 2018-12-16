@@ -30,25 +30,25 @@ Ajahn Sumedho
 
 
 	
-  * [Un puñado de hojas]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/un-punado-de-hojas/)
+  * [Un puñado de hojas](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/un-punado-de-hojas/)
 
 	
-  * [Prefacio]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/prefacio/)
+  * [Prefacio](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/prefacio/)
 
 	
-  * [Introducción]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/introduccion/)
+  * [Introducción](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/introduccion/)
 
 	
-  * [La primera verdad noble]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-primera-verdad-noble/)
+  * [La primera verdad noble](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-primera-verdad-noble/)
 
 	
-  * [La segunda verdad noble]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-segunda-verdad-noble/)
+  * [La segunda verdad noble](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-segunda-verdad-noble/)
 
 	
-  * [La tercera verdad noble]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-tercera-verdad-noble/)
+  * [La tercera verdad noble](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-tercera-verdad-noble/)
 
 	
-  * [La cuarta verdad noble]/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-cuarta-verdad-noble/)
+  * [La cuarta verdad noble](/textos/ajahn-sumedho/las-cuatro-verdades-nobles/la-cuarta-verdad-noble/)
 
 
 <!-- more -->

@@ -76,7 +76,7 @@ A veces las situaciones de crisis hacen surgir aspiraciones muy beneficiosas en 
 
 
 
-[->La benevolencia]/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-benevolencia/)
+[->La benevolencia](/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-benevolencia/)
 
 
 <!-- more -->

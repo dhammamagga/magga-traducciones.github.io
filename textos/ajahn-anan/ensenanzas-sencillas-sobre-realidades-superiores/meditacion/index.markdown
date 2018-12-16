@@ -157,7 +157,7 @@ Antes de hacerme monje tenía un trabajo fijo. Iba a trabajar y volvía a casa p
 
 
 
-[->La atención]/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-atencion/)
+[->La atención](/textos/ajahn-anan/ensenanzas-sencillas-sobre-realidades-superiores/la-atencion/)
 
 
 <!-- more -->

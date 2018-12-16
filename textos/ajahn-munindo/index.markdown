@@ -11,6 +11,6 @@ wordpress_id: 103
 
 
 	
-  * [Dhammapada]/textos/ajahn-munindo/dhammapada/)
+  * [Dhammapada](/textos/ajahn-munindo/dhammapada/)
 
 
